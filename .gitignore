@@ -1,0 +1,9 @@
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/c_cpp_properties.json
+glfw3.dll
+mandelbrot.exe
+gl.c
+glad.c
+stb_image.cpp
+stb_image.h
